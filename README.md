@@ -1,4 +1,4 @@
-# Vis de lampe / lamp screw
+# Vis de lampe / lamp bolt
 
 Vis métrique au pas 10 permettant de fixer une douille de lampe (E27, E14 et peut-être d'autres) sur un support tout en permettant de faire passer des fil de raccordement en son centre.
 
