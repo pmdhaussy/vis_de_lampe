@@ -1,5 +1,5 @@
 $fn=360;
-include <../Librairies/threads.scad>
+include <./threads.scad>
 
 
 difference() {
