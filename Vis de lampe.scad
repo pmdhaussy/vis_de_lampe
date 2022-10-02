@@ -1,7 +1,6 @@
 $fn=360;
 include <./threads.scad>
 
-
 difference() {
     MetricBolt(10, 10);
     translate([0, 0, -0.1]) {
